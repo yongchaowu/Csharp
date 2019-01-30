@@ -1,0 +1,7 @@
+C:\Users\yongchao\Documents\GitHub\c#\TaskTest\TaskTest\bin\Debug\TaskTest.exe.config
+C:\Users\yongchao\Documents\GitHub\c#\TaskTest\TaskTest\bin\Debug\TaskTest.exe
+C:\Users\yongchao\Documents\GitHub\c#\TaskTest\TaskTest\bin\Debug\TaskTest.pdb
+C:\Users\yongchao\Documents\GitHub\c#\TaskTest\TaskTest\obj\Debug\TaskTest.csprojAssemblyReference.cache
+C:\Users\yongchao\Documents\GitHub\c#\TaskTest\TaskTest\obj\Debug\TaskTest.csproj.CoreCompileInputs.cache
+C:\Users\yongchao\Documents\GitHub\c#\TaskTest\TaskTest\obj\Debug\TaskTest.exe
+C:\Users\yongchao\Documents\GitHub\c#\TaskTest\TaskTest\obj\Debug\TaskTest.pdb

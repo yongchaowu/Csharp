@@ -1,0 +1,5 @@
+C:\Users\yongchao\Documents\GitHub\c#\Thread\Thread\bin\Debug\Thread.exe
+C:\Users\yongchao\Documents\GitHub\c#\Thread\Thread\bin\Debug\Thread.pdb
+C:\Users\yongchao\Documents\GitHub\c#\Thread\Thread\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yongchao\Documents\GitHub\c#\Thread\Thread\obj\Debug\Thread.exe
+C:\Users\yongchao\Documents\GitHub\c#\Thread\Thread\obj\Debug\Thread.pdb
