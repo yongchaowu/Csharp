@@ -1,0 +1,7 @@
+C:\Users\yongchao\Documents\GitHub\c#\CRC\CRCTest\CRCTest\bin\Debug\CRCTest.exe
+C:\Users\yongchao\Documents\GitHub\c#\CRC\CRCTest\CRCTest\bin\Debug\CRCTest.pdb
+C:\Users\yongchao\Documents\GitHub\c#\CRC\CRCTest\CRCTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yongchao\Documents\GitHub\c#\CRC\CRCTest\CRCTest\obj\Debug\CRCTest.Properties.Resources.resources
+C:\Users\yongchao\Documents\GitHub\c#\CRC\CRCTest\CRCTest\obj\Debug\CRCTest.csproj.GenerateResource.Cache
+C:\Users\yongchao\Documents\GitHub\c#\CRC\CRCTest\CRCTest\obj\Debug\CRCTest.exe
+C:\Users\yongchao\Documents\GitHub\c#\CRC\CRCTest\CRCTest\obj\Debug\CRCTest.pdb

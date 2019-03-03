@@ -1,0 +1,10 @@
+C:\Users\yongchao\Documents\GitHub\c#\log\Log\Log\bin\Debug\Log.exe
+C:\Users\yongchao\Documents\GitHub\c#\log\Log\Log\bin\Debug\Log.pdb
+C:\Users\yongchao\Documents\GitHub\c#\log\Log\Log\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yongchao\Documents\GitHub\c#\log\Log\Log\obj\Debug\Log.Properties.Resources.resources
+C:\Users\yongchao\Documents\GitHub\c#\log\Log\Log\obj\Debug\Log.csproj.GenerateResource.Cache
+C:\Users\yongchao\Documents\GitHub\c#\log\Log\Log\obj\Debug\Log.exe
+C:\Users\yongchao\Documents\GitHub\c#\log\Log\Log\obj\Debug\Log.pdb
+C:\Users\yongchao\Documents\GitHub\c#\log\Log\Log\obj\Debug\Log.Form1.resources
+C:\Users\yongchao\Documents\GitHub\Csharp\Log\Log\obj\Debug\Log.exe
+C:\Users\yongchao\Documents\GitHub\Csharp\Log\Log\obj\Debug\Log.pdb

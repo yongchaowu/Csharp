@@ -5,3 +5,10 @@ C:\Users\yongchao\Documents\GitHub\c#\Delegate\Delegate\obj\Debug\Delegate.Prope
 C:\Users\yongchao\Documents\GitHub\c#\Delegate\Delegate\obj\Debug\Delegate.csproj.GenerateResource.Cache
 C:\Users\yongchao\Documents\GitHub\c#\Delegate\Delegate\obj\Debug\Delegate.exe
 C:\Users\yongchao\Documents\GitHub\c#\Delegate\Delegate\obj\Debug\Delegate.pdb
+C:\Users\yongchao\Documents\GitHub\Csharp\Delegate\Delegate\obj\Debug\Delegate.exe
+C:\Users\yongchao\Documents\GitHub\Csharp\Delegate\Delegate\obj\Debug\Delegate.pdb
+C:\Users\yongchao\Documents\GitHub\Csharp\Delegate\Delegate\bin\Debug\Delegate.exe
+C:\Users\yongchao\Documents\GitHub\Csharp\Delegate\Delegate\bin\Debug\Delegate.pdb
+C:\Users\yongchao\Documents\GitHub\Csharp\Delegate\Delegate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yongchao\Documents\GitHub\Csharp\Delegate\Delegate\obj\Debug\Delegate.Properties.Resources.resources
+C:\Users\yongchao\Documents\GitHub\Csharp\Delegate\Delegate\obj\Debug\Delegate.csproj.GenerateResource.Cache
