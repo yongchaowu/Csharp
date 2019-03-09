@@ -1,0 +1,5 @@
+C:\Users\yongchao\Documents\GitHub\c#\ChangeFormat\ChangeFormat\ChangeFormat\bin\Debug\ChangeFormat.exe
+C:\Users\yongchao\Documents\GitHub\c#\ChangeFormat\ChangeFormat\ChangeFormat\bin\Debug\ChangeFormat.pdb
+C:\Users\yongchao\Documents\GitHub\c#\ChangeFormat\ChangeFormat\ChangeFormat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yongchao\Documents\GitHub\c#\ChangeFormat\ChangeFormat\ChangeFormat\obj\Debug\ChangeFormat.exe
+C:\Users\yongchao\Documents\GitHub\c#\ChangeFormat\ChangeFormat\ChangeFormat\obj\Debug\ChangeFormat.pdb

@@ -1,0 +1,5 @@
+C:\Users\yongchao\Documents\GitHub\C#\CheckIPPort\CheckIPPort\bin\Debug\CheckIPPort.exe
+C:\Users\yongchao\Documents\GitHub\C#\CheckIPPort\CheckIPPort\bin\Debug\CheckIPPort.pdb
+C:\Users\yongchao\Documents\GitHub\C#\CheckIPPort\CheckIPPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yongchao\Documents\GitHub\C#\CheckIPPort\CheckIPPort\obj\Debug\CheckIPPort.exe
+C:\Users\yongchao\Documents\GitHub\C#\CheckIPPort\CheckIPPort\obj\Debug\CheckIPPort.pdb

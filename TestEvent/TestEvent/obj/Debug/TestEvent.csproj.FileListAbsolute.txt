@@ -1,0 +1,5 @@
+C:\Users\yongchao\Documents\GitHub\C#\TestEvent\TestEvent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yongchao\Documents\GitHub\C#\TestEvent\TestEvent\bin\Debug\TestEvent.exe
+C:\Users\yongchao\Documents\GitHub\C#\TestEvent\TestEvent\bin\Debug\TestEvent.pdb
+C:\Users\yongchao\Documents\GitHub\C#\TestEvent\TestEvent\obj\Debug\TestEvent.exe
+C:\Users\yongchao\Documents\GitHub\C#\TestEvent\TestEvent\obj\Debug\TestEvent.pdb
