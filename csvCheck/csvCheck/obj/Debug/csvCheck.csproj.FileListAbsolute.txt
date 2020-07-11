@@ -1,0 +1,7 @@
+G:\0331\csvCheck\csvCheck\obj\Debug\ResolveAssemblyReference.cache
+G:\0331\csvCheck\csvCheck\bin\Debug\csvCheck.exe
+G:\0331\csvCheck\csvCheck\bin\Debug\csvCheck.pdb
+G:\0331\csvCheck\csvCheck\obj\Debug\csvCheck.exe
+G:\0331\csvCheck\csvCheck\obj\Debug\csvCheck.pdb
+I:\GitHub\Csharp\csvCheck\csvCheck\obj\Debug\csvCheck.exe
+I:\GitHub\Csharp\csvCheck\csvCheck\obj\Debug\csvCheck.pdb
